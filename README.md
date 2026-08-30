@@ -1,2 +1,2 @@
 # DETECÇÃO DE FRAUDES EM TRANSAÇÕES BANCÁRIAS DO DATASET CREDITCARD
-Jupyter Notebook no Google Colab para criar um sistema de Data Analytics que serve para a detecção de fraudes de transações registradas no [dataset creditcard](https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv)
+[Jupyter Notebook no Google Colab](https://colab.research.google.com/github/elvingup/projeto_deteccao_python_data_analytics_20260821/blob/main/projeto_deteccao_python_data_analytics_20260821.ipynb) para criar um sistema de Data Analytics que serve para a detecção de fraudes de transações registradas no [dataset creditcard](https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv)
