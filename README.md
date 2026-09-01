@@ -45,4 +45,7 @@ A avaliação do modelo final (XGBoost) não se limitou à matriz de confusão c
 1. **Acesse o Notebook:**
    Você pode rodar este projeto diretamente na nuvem clicando no arquivo `projeto_deteccao_python_data_analytics_20260821.ipynb` neste repositório e selecionando a opção "Open in Colab".
 2. **Clonando localmente:**
-   Se preferir, pode fazer o *fork* deste repositório no GitHub e clonar o repositório localmente. Em seguida, execute o arquivo `projeto_deteccao_python_data_analytics_20260821.ipynb` localmente.
+   Se preferir, pode fazer o *fork* deste repositório no GitHub e clonar o repositório localmente. Em seguida, execute o arquivo `projeto_deteccao_python_data_analytics_20260821.ipynb` localmente. A instalação via CLI pode ser feita executando
+   ```bash
+   pip install -r requirements.txt
+   ```
